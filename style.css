@@ -959,8 +959,10 @@ article {
     -ms-border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
-    width: 160px;
+    width: 200px;
+    height: 45px;
     border: none;
+    text-decoration: none;
     margin: 5px 0 50px 0px;
     cursor: pointer;
     font-family: 'Source Sans Pro', sans-serif;
